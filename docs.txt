@@ -1,0 +1,3 @@
+This documentation explains how to pet a cat correctly.
+
+Note that petting a cat incorrectly may result in a personal injury.
